@@ -3,6 +3,7 @@ package pfp.intro
 import scala.language.higherKinds
 import scalaz._, Scalaz._
 
+
 object Functions {
 
   /** Defining a function */
